@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Homo-data-analyticus
-- 👀 I’m interested in anything that helps further understand programming and ai
-- 🌱 I’m currently learning html/css, and continuning to develop and learn python
+- 👋 Hi everyone, I am new to Github and have keen interests in extracting patterns and insights into data and I wish to bring new ideas and techniques into the industry; I'm a new species of data scientist, I’m @Homo-data-analyticus!
+- I’m interested in being able to learn about data maniuplation and how to create better data visualizations and have the overarching goal of creating an artifical intelligence that is able to freely, do data maniuplation for you. 
+- Taken Google data Analytics course and recieved a certificate, partipicate in data competitions at Kaggle and enjoy doing LeetCode in my free time.
 - 💞️ I’m looking to collaborate on websites or developing projects in python
-- 📫 How to reach me ...
+- 📫 I can be reached through my personal email: gabe.l.dell@gmail.com 
 
-<!---
-Homo-data-analyticus/Homo-data-analyticus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
